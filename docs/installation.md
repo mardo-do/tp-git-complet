@@ -8,3 +8,10 @@
 ```bash
 sudo apt update
 sudo apt install git
+
+```
+
+## verification
+```bash
+git --version
+```
