@@ -1,1 +1,0 @@
-Cette fonctionnalité sera annulée avec git revert.
